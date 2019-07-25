@@ -18,7 +18,7 @@ firebase.initializeApp(config);
 ```
 
 
-  [Enable to  Authentication by E-mail and Password :] (img/user-pass.png)
+  ![Enable to  Authentication by E-mail and Password :](img/user-pass.png)
    
   [Add Users:] (img/add-user.png)
 
