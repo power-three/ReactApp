@@ -18,9 +18,9 @@ firebase.initializeApp(config);
 ```
 
 
-  [Enable to  Authentication by E-mail and Password :](C:\Users\TOSHIBA\Downloads\user-pass.png)
+  [Enable to  Authentication by E-mail and Password :](user-pass.png)
    
-  [Add users:](C:\Users\TOSHIBA\Downloads\add-user.png)
+  [Add Users:](user-ass.png)
 
   [Login](sers\TOSHIBA\Downloads\add-user.png)
 
